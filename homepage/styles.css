@@ -1,0 +1,62 @@
+            #area1{
+                text-align: center;
+                font-family: 'Sacramento', cursive;
+                font-size: 70px;
+            }
+
+            #desc{
+                text-align: center;
+                font-family: 'Arapey', serif;
+                font-size: 20px;
+            }
+
+            #body2 {
+            background-image: url('cityscape.jpg');
+            }
+
+            #body3{
+                background-image: url('lemon.jpg');
+            }
+
+            #body4{
+                background-image: url('https://cdn.shopify.com/s/files/1/0851/3262/files/Woodgrain_2048_1366.png?v=1603865292');
+            }
+
+
+            .parallax {
+          background-image: url("lastias.jpg");
+          min-height: 400px;
+          background-attachment: fixed;
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+            }
+
+            .jog{
+            width: 60%;
+            height: 150px;
+            margin: auto;
+            text-align: center;
+            background-color: #cce6ff;
+            font-family: 'Arapey', serif;
+            font-size: 20px;
+            }
+
+
+            .container2{
+                text-align: center;
+                font-family: 'Sacramento', cursive;
+            }
+
+
+
+
+
+
+
+
+
+
+
+
+
